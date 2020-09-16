@@ -1,9 +1,5 @@
 # doktorat-dariusza-izaka
-Dane do doktoratu pana magistra Dariusza Izaka
-
-Cześć Darek.
-
-Udoskonaliłem Twój software i stworzyłem program, który działa z linii komend.
+Dane do doktoratu pana magistra Dariusza Izaka. Cześć Darek. Udoskonaliłem Twój software i stworzyłem program, który działa z linii komend.
 
 Wykonanie zadania o które prosiłem było trochę bardziej złożone i wymagało użycia wyrażeń regularnych (Regular Expressions), co jest dość złożoną i abstrakcyjną koncepcją matematyczną informatyczną. Trudno mi jest wyjaśnić to w krótkim opisie. Nie przejmuj się jeśli nie rozumiesz tej części kodu.
 
